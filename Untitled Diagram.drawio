@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-19T18:13:14.149Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="YtXv4-8ue-uMSRveUiHX" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-19T18:14:16.924Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ck6MwkxsQmc4jXwKTuQ1" version="20.0.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1215" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,11 +93,11 @@
         </mxCell>
         <mxCell id="OMeP-qQj-bfk-kY83GTp-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OMeP-qQj-bfk-kY83GTp-32">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="500" as="targetPoint" />
+            <mxPoint x="160" y="500" as="targetPoint" />
             <Array as="points">
               <mxPoint x="350" y="480" />
-              <mxPoint x="250" y="480" />
-              <mxPoint x="250" y="490" />
+              <mxPoint x="160" y="480" />
+              <mxPoint x="160" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -125,7 +125,7 @@
           <mxGeometry x="290" y="410" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OMeP-qQj-bfk-kY83GTp-46" value="개인 정보&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%EB%A1%9C%EA%B7%B8%EC%9D%B8%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22290%22%20y%3D%2290%22%20width%3D%22120%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="500" width="120" height="40" as="geometry" />
+          <mxGeometry x="100" y="500" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OMeP-qQj-bfk-kY83GTp-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OMeP-qQj-bfk-kY83GTp-47">
           <mxGeometry relative="1" as="geometry">
