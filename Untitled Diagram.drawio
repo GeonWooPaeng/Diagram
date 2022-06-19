@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-19T18:04:04.533Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="GVJoks3QFLKlw95UNa3t" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-19T18:05:06.897Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="X7_41dDnIy7sxjA8m_57" version="20.0.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1215" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,7 +42,7 @@
             <mxPoint x="180" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OMeP-qQj-bfk-kY83GTp-7" value="데이터 유효성 체크" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="OMeP-qQj-bfk-kY83GTp-7" value="회원가입 데이터&lt;br&gt;&amp;nbsp;유효성 체크" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="240" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OMeP-qQj-bfk-kY83GTp-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OMeP-qQj-bfk-kY83GTp-18">
@@ -80,7 +80,7 @@
             <mxPoint x="350" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OMeP-qQj-bfk-kY83GTp-28" value="데이터 유효성 체크" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="OMeP-qQj-bfk-kY83GTp-28" value="로그인 데이터&lt;br&gt;&amp;nbsp;유효성 체크" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="240" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OMeP-qQj-bfk-kY83GTp-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OMeP-qQj-bfk-kY83GTp-30">
@@ -135,7 +135,7 @@
             <mxPoint x="450" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OMeP-qQj-bfk-kY83GTp-49" value="데이터 유효성 체크" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="OMeP-qQj-bfk-kY83GTp-49" value="논쟁 데이터 &lt;br&gt;유효성 체크" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="570" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OMeP-qQj-bfk-kY83GTp-51" value="404 Page" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
