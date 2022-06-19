@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-19T17:58:39.110Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="aIU8Vt6TIdVyL-fhihGl" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-19T18:03:19.481Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="i3AoKFtyrhjPTmBFw9n9" version="20.0.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1215" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -157,8 +157,37 @@
         <mxCell id="OMeP-qQj-bfk-kY83GTp-56" value="논쟁 투표 선택" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="740" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="OMeP-qQj-bfk-kY83GTp-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OMeP-qQj-bfk-kY83GTp-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="369" y="1070" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="449" y="1045" />
+              <mxPoint x="369" y="1045" />
+              <mxPoint x="369" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OMeP-qQj-bfk-kY83GTp-58" value="논쟁 결과 Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="810" width="120" height="40" as="geometry" />
+          <mxGeometry x="389" y="980" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OMeP-qQj-bfk-kY83GTp-60" value="투표 결과 체크" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="319" y="1070" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OMeP-qQj-bfk-kY83GTp-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OMeP-qQj-bfk-kY83GTp-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="449" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OMeP-qQj-bfk-kY83GTp-61" value="Post DB에 추가" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="389" y="910" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OMeP-qQj-bfk-kY83GTp-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OMeP-qQj-bfk-kY83GTp-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="449" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OMeP-qQj-bfk-kY83GTp-63" value="데이터 유효성 체크" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="399" y="810" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
