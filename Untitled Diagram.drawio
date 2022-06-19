@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-19T17:43:13.789Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="lp33B-lDtMRVo-38czgL" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-19T17:45:07.549Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ZJE17ChEGU__koGwGZkE" version="20.0.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="745" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1215" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -19,7 +19,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Home" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="250" y="30" width="120" height="30" as="geometry" />
+          <mxGeometry x="330" y="30" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OMeP-qQj-bfk-kY83GTp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OMeP-qQj-bfk-kY83GTp-3">
           <mxGeometry relative="1" as="geometry">
@@ -52,6 +52,9 @@
         </mxCell>
         <mxCell id="OMeP-qQj-bfk-kY83GTp-18" value="회원 정보 DB 입력" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OMeP-qQj-bfk-kY83GTp-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OMeP-qQj-bfk-kY83GTp-21" target="OMeP-qQj-bfk-kY83GTp-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OMeP-qQj-bfk-kY83GTp-21" value="회원 가입 성공" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="410" width="120" height="50" as="geometry" />
