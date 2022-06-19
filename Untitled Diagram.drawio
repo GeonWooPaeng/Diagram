@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-19T18:07:17.837Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="f4-5L8oV9rcBq-vsa0rB" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-19T18:08:17.120Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="qnPwkM4rLwnxNZmgcAvs" version="20.0.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1215" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -182,7 +182,7 @@
         </mxCell>
         <mxCell id="OMeP-qQj-bfk-kY83GTp-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OMeP-qQj-bfk-kY83GTp-60">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="369" y="1180" as="targetPoint" />
+            <mxPoint x="369" y="1170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OMeP-qQj-bfk-kY83GTp-60" value="투표 결과&lt;br&gt;유효성 체크" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -211,6 +211,9 @@
         </mxCell>
         <mxCell id="OMeP-qQj-bfk-kY83GTp-67" value="논쟁 찬/반 댓글" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="1070" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OMeP-qQj-bfk-kY83GTp-71" value="찬/반 선택, &lt;br&gt;댓글 입력" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="1169" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
