@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-19T18:11:18.833Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="jWs5VLeGidbvGhqT8Uqt" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-19T18:13:14.149Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="YtXv4-8ue-uMSRveUiHX" version="20.0.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1215" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -111,6 +111,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="OMeP-qQj-bfk-kY83GTp-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OMeP-qQj-bfk-kY83GTp-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="480" />
+              <mxPoint x="800" y="480" />
+              <mxPoint x="800" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OMeP-qQj-bfk-kY83GTp-32" value="로그인 성공" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="410" width="120" height="50" as="geometry" />
         </mxCell>
@@ -220,11 +230,22 @@
         <mxCell id="OMeP-qQj-bfk-kY83GTp-75" value="투표 결과 DB 확인" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="1070" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OMeP-qQj-bfk-kY83GTp-78" value="댓글 DB 입력" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="OMeP-qQj-bfk-kY83GTp-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OMeP-qQj-bfk-kY83GTp-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OMeP-qQj-bfk-kY83GTp-78" value="댓글 DB 입력 및 가져오기" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="1250" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OMeP-qQj-bfk-kY83GTp-79" value="표로 출력" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="1140" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OMeP-qQj-bfk-kY83GTp-82" value="댓글 출력" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="1320" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OMeP-qQj-bfk-kY83GTp-84" value="논쟁 만들기" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="740" y="500" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
