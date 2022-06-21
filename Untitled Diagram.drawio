@@ -1,12 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T16:23:34.551Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="GMn0nQZSn4NQQGVhZC70" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T16:35:27.429Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="efsuht_LLJaGu7Ciy_9m" version="20.0.1" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1676" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1902" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PEhFff4IV3TKT-8xSN0i-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="3nuBFxr9cyL0pnOWT2aG-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="900" as="targetPoint" />
+            <mxPoint x="170" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="로그인 인증" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
@@ -51,11 +51,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="논쟁 웹" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="80" width="100" height="740" as="geometry" />
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="Toronto" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="80" width="100" height="590" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
-          <mxGeometry x="45" y="70" width="10" height="670" as="geometry" />
+          <mxGeometry x="45" y="70" width="10" height="490" as="geometry" />
         </mxCell>
         <mxCell id="PEhFff4IV3TKT-8xSN0i-69" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
           <mxGeometry x="50" y="450.5" width="10" height="39.5" as="geometry" />
@@ -75,7 +75,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PEhFff4IV3TKT-8xSN0i-55" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=-0.029;exitY=0.254;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-5" source="3nuBFxr9cyL0pnOWT2aG-6">
+        <mxCell id="PEhFff4IV3TKT-8xSN0i-55" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0.114;exitY=0.346;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-5" source="3nuBFxr9cyL0pnOWT2aG-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="240" as="sourcePoint" />
             <mxPoint x="-290" y="240" as="targetPoint" />
@@ -88,7 +88,7 @@
         </mxCell>
         <mxCell id="PEhFff4IV3TKT-8xSN0i-61" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-5" target="3nuBFxr9cyL0pnOWT2aG-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-285" y="280" as="sourcePoint" />
+            <mxPoint x="-290" y="280" as="sourcePoint" />
             <mxPoint x="40" y="280" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-145" y="280" />
@@ -96,7 +96,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PEhFff4IV3TKT-8xSN0i-62" value="논쟁 투표 시도&lt;br&gt;(comment)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PEhFff4IV3TKT-8xSN0i-61">
+        <mxCell id="PEhFff4IV3TKT-8xSN0i-62" value="논쟁 투표 시도&lt;br&gt;로그인[OK]&lt;br&gt;(comment)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PEhFff4IV3TKT-8xSN0i-61">
           <mxGeometry x="0.2862" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -121,7 +121,7 @@
         </mxCell>
         <mxCell id="PEhFff4IV3TKT-8xSN0i-75" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=oval;startFill=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="PEhFff4IV3TKT-8xSN0i-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="9.999999999999773" y="1142.1428571428569" as="targetPoint" />
+            <mxPoint x="10" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PEhFff4IV3TKT-8xSN0i-16" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
@@ -148,7 +148,7 @@
             <mxPoint x="10" y="450.00000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PEhFff4IV3TKT-8xSN0i-64" value="로그인[OK]&lt;br&gt;투표 결과(표) 및 댓글" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PEhFff4IV3TKT-8xSN0i-63">
+        <mxCell id="PEhFff4IV3TKT-8xSN0i-64" value="투표 결과(표) 및 댓글" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PEhFff4IV3TKT-8xSN0i-63">
           <mxGeometry x="-0.456" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
