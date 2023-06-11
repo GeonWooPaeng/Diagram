@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-11T10:29:00.999Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="I6MZ7lUonDG9P2FQFTkf" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-11T10:30:07.892Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="qoKseaXacEK4BhiXOjtF" version="21.3.7" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="3282" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -345,6 +345,17 @@
         <mxCell id="ZAnQHSxJU-NlxPs6kDCk-48" value="GET User Info&lt;br&gt;(w. Access Token )" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZAnQHSxJU-NlxPs6kDCk-47">
           <mxGeometry x="-0.625" y="2" relative="1" as="geometry">
             <mxPoint x="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZAnQHSxJU-NlxPs6kDCk-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1160" y="1130" as="sourcePoint" />
+            <mxPoint x="-1560" y="1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZAnQHSxJU-NlxPs6kDCk-50" value="Return User Info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZAnQHSxJU-NlxPs6kDCk-49">
+          <mxGeometry x="-0.41" relative="1" as="geometry">
+            <mxPoint x="18" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
