@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-11T12:06:04.659Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="FJtbIIPF8iwaK09vEbWD" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-11T12:18:30.146Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="YunWfnniIW_RQ_dGka6-" version="21.3.8" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="3178" dy="1090" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+    <mxGraphModel dx="3176" dy="1194" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -358,7 +358,7 @@
             <mxPoint x="-1160" y="1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZAnQHSxJU-NlxPs6kDCk-48" value="GET User Info&lt;br&gt;(w. Access Token )" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZAnQHSxJU-NlxPs6kDCk-47" vertex="1" connectable="0">
+        <mxCell id="ZAnQHSxJU-NlxPs6kDCk-48" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;GET User Info&lt;br&gt;(w. Access Token )&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZAnQHSxJU-NlxPs6kDCk-47" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="25" as="offset" />
           </mxGeometry>
@@ -369,7 +369,7 @@
             <mxPoint x="-1560" y="1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZAnQHSxJU-NlxPs6kDCk-50" value="Return User Info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZAnQHSxJU-NlxPs6kDCk-49" vertex="1" connectable="0">
+        <mxCell id="ZAnQHSxJU-NlxPs6kDCk-50" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Return User Info&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZAnQHSxJU-NlxPs6kDCk-49" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="18" as="offset" />
           </mxGeometry>
