@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T04:58:09.079Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="X37BnVbL2IjjZwMU-sp7" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T04:58:38.482Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3d2Qz1w1hYicQSOJ2JM7" version="21.3.8" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="3414" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -255,7 +255,7 @@
         </mxCell>
         <mxCell id="ZAnQHSxJU-NlxPs6kDCk-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;GET Social 인증요청 페이지&lt;br&gt;(Authentication Page)&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZAnQHSxJU-NlxPs6kDCk-17" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="20" as="offset" />
+            <mxPoint x="-3" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZAnQHSxJU-NlxPs6kDCk-21" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
