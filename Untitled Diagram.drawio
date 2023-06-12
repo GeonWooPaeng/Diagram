@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-11T12:19:51.712Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Xd4aZ-mmosf-IHYf4OYt" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T04:54:34.941Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="WkVF7U5O3oBvqJ61Kg7r" version="21.3.8" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="2697" dy="1194" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+    <mxGraphModel dx="2793" dy="1194" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -292,18 +292,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZAnQHSxJU-NlxPs6kDCk-32" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Social 인증 시도&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZAnQHSxJU-NlxPs6kDCk-31" vertex="1" connectable="0">
+        <mxCell id="ZAnQHSxJU-NlxPs6kDCk-32" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Social 인증 시도&lt;br&gt;(Authentication)&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZAnQHSxJU-NlxPs6kDCk-31" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-11" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZAnQHSxJU-NlxPs6kDCk-33" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1750" y="680" as="sourcePoint" />
-            <mxPoint x="-1360" y="680" as="targetPoint" />
+            <mxPoint x="-1749" y="707" as="sourcePoint" />
+            <mxPoint x="-1359" y="707" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZAnQHSxJU-NlxPs6kDCk-34" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;GET Authentication Code&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZAnQHSxJU-NlxPs6kDCk-33" vertex="1" connectable="0">
+        <mxCell id="ZAnQHSxJU-NlxPs6kDCk-34" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;GET Authorization Code&lt;br&gt;(w. User Authenticates )&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZAnQHSxJU-NlxPs6kDCk-33" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
@@ -314,7 +314,7 @@
             <mxPoint x="-1750" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZAnQHSxJU-NlxPs6kDCk-38" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Authentication Code &amp;amp;&amp;nbsp;&lt;br&gt;302 Redirect Url (Client Url)&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZAnQHSxJU-NlxPs6kDCk-35" vertex="1" connectable="0">
+        <mxCell id="ZAnQHSxJU-NlxPs6kDCk-38" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Authorization Code &amp;amp;&amp;nbsp;&lt;br&gt;302 Redirect Url (Client Url)&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZAnQHSxJU-NlxPs6kDCk-35" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -325,7 +325,7 @@
             <mxPoint x="-1560" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZAnQHSxJU-NlxPs6kDCk-42" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;페이지 이동 &amp;amp;&amp;nbsp;&lt;br&gt;Authentication Code&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZAnQHSxJU-NlxPs6kDCk-39" vertex="1" connectable="0">
+        <mxCell id="ZAnQHSxJU-NlxPs6kDCk-42" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;페이지 이동 &amp;amp;&amp;nbsp;&lt;br&gt;Authorization Code&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZAnQHSxJU-NlxPs6kDCk-39" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -336,7 +336,7 @@
             <mxPoint x="-1360" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZAnQHSxJU-NlxPs6kDCk-44" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;GET Access Token&lt;br&gt;(w. Authentication Code, Client Id,&amp;nbsp;&lt;br&gt;Client Secret Key, Redirect Url )&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZAnQHSxJU-NlxPs6kDCk-43" vertex="1" connectable="0">
+        <mxCell id="ZAnQHSxJU-NlxPs6kDCk-44" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;GET Access Token&lt;br&gt;(w. Authorization Code,&lt;br&gt;Redirect URI )&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZAnQHSxJU-NlxPs6kDCk-43" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
@@ -347,9 +347,9 @@
             <mxPoint x="-1560" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZAnQHSxJU-NlxPs6kDCk-46" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Return Access Token &amp;amp;&lt;br&gt;Refresh Token&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZAnQHSxJU-NlxPs6kDCk-45" vertex="1" connectable="0">
+        <mxCell id="ZAnQHSxJU-NlxPs6kDCk-46" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Return Access Token &amp;amp;&lt;br&gt;Optional Refresh Token&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZAnQHSxJU-NlxPs6kDCk-45" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="24" as="offset" />
+            <mxPoint x="2" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZAnQHSxJU-NlxPs6kDCk-47" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
